@@ -12,8 +12,8 @@ This is been deployed on a free hosting service!
   <div style="display: flex;">
     
 <img width="450" height="250" src="https://github.com/Jerome-study/url-shortener-landing-page/assets/119875460/88a2726e-fbc3-4dcd-9042-ecf8eee10a07" style="vertical-align: top;" />
-<img width="450" height="250" src="(https://github.com/Jerome-study/url-shortener-landing-page/assets/119875460/f8b8d972-f832-4879-b3a7-b28391e546ad" style="vertical-align: top;" />
-<img width="450" height="250" src="(https://github.com/Jerome-study/url-shortener-landing-page/assets/119875460/356dbe09-3c01-4646-aff9-2b3ab2254102" style="vertical-align: top;" />
+<img width="450" height="250" src="https://github.com/Jerome-study/url-shortener-landing-page/assets/119875460/f8b8d972-f832-4879-b3a7-b28391e546ad" style="vertical-align: top;" />
+<img width="450" height="250" src="https://github.com/Jerome-study/url-shortener-landing-page/assets/119875460/356dbe09-3c01-4646-aff9-2b3ab2254102" style="vertical-align: top;" />
   </div>
 </div>
 
